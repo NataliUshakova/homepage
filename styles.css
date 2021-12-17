@@ -267,3 +267,8 @@ li {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.projects {
+  display: flex;
+  text-decoration: none;
+}
